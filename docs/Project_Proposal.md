@@ -11,9 +11,9 @@
 # AI Hardware Project Proposal Template
 
 ## 1. Project Title
-Name of the Team
+Name of the Team: Compute Collective
 
-List of students in the team
+List of students in the team: Garrett Delaney, Evan Sage, Sansshita Baskaran
 
 Provide a clear and concise title for your project. 
 
@@ -22,6 +22,8 @@ Select one platform category and justify your choice.
 
 **Undergraduates:** Edge-AI, TinyML, or Neuromorphic platforms  
 **Graduates:** open-source AI accelerators (Ztachip, VTA, Gemmini, VeriGOOD-ML, NVDLA) or any of the above 
+
+We will use the NVIDIA Jetson, which is in the Edge AI category. We chose this because one team member has prior experience with it at his job. He also said they have good tutorials and documentation. 
 
 ## 3. Problem Definition
 Describe the AI or hardware design problem you aim to address and its relevance to AI hardware (e.g., efficiency, latency, scalability).
