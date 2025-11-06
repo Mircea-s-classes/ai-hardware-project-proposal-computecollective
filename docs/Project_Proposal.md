@@ -21,7 +21,7 @@ We will use the NVIDIA Jetson, which is in the Edge AI category. We chose this b
 
 ## 3. Problem Definition
 
-Most AI based computer vision and recogntion is currently performed in the cloud and requires a continous internet connection. This reliance on the cloud has challenges such as latency, high data and bandwidth usage, security and privacy concerns, plus it stops working whenever you are in an environment without internet. This limits the deployment of real world applications of AI, especially in environments with poor or slow internet.
+Most AI based computer vision and recognition is currently performed in the cloud and requires a continuous internet connection. This reliance on the cloud has challenges such as latency, high data and bandwidth usage, security and privacy concerns, plus it stops working whenever you are in an environment without internet. This limits the deployment of real world applications of AI, especially in environments with poor or slow internet.
 
 In this project, we aim to utilize the NVIDIA Jetson development kit to design and implement a real-time emotion recognition system (for example to detect if someone if happy or sad). The computations will run completely locally on the device, requiring no internet, delivering speedy results while protecting user privacy.
 
