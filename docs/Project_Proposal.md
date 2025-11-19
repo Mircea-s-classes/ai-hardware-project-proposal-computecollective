@@ -89,7 +89,7 @@ Provide expected milestones:
 List special hardware, datasets, or compute access needed.
 
 **Hardware**
-1. Nvidia Jetson, probaly the Nano model, but the Jetson Xavier NX or Jetson AGX Xavier should work too
+1. Nvidia Jetson, probably the Nano model, but the Jetson Xavier NX or Jetson AGX Xavier should work too
 2. USB webcam
 3. A monitor and keyboard (optional)
 
