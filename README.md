@@ -9,17 +9,17 @@ Members: Sansshita Baskaran, Garrett Delaney, Evan Sage
 Emotion recognition is an increasingly important area in computer vision and human-computer interaction (HCI), with applications ranging from mental health monitoring to driver alertness systems and in customer service. Many existing emotion recognition systems rely on cloud-based computation, where video data is streamed to remote servers for processing. While this is effective, this approach could also introduce issues such as high latency and bandwidth usage, privacy concerns, and reduced reliability in environments with unstable or unavailable internet connectivity. This project, Emotion Detector, allows us to investigate whether real-time facial emotion recognition can be performed entirely on an edge device. By running the full computation locally, the system aims to improve privacy, reduce latency, and enable deployment in real-world settings without cloud dependence. This project focuses on building and evaluating an on-device emotion recognition system using the NVIDIA Jetson platform.
 
 ## Hardware 
--NVIDIA Jetson
--Zoom Q4 USB Webcam
--USB Keyboard
--USB Mouse
--HDMI Monitor
+- NVIDIA Jetson
+- Zoom Q4 USB Webcam
+- USB Keyboard
+- USB Mouse
+- HDMI Monitor
 
 ## Software
--OpenCV
--TensorFlow
--Jetson Software Development Kit 
--V4L2- Video for Linux
+- OpenCV
+- TensorFlow
+- Jetson Software Development Kit 
+- V4L2- Video for Linux
 
 ## Dataset
 - We used FER-2013 dataset 
