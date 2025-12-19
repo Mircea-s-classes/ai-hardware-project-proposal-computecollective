@@ -2,7 +2,11 @@
 # AI Hardware Project Template
 ECE 4332 / ECE 6332 — AI Hardware  
 Fall 2025
-
+## How To:
+In order to use the emotion tracker, once the Jetson has finished logging in and a usb webcam is plugged in,
+1. Change Directories to /face-detection/
+2. Run python3 third_fer_webcam.py, arguements include --model MODEL.h5 for which trained model to use, --camera # for which V4L2 number the webcam ends up using, and --use-cpu-fallback if OOM error occurs
+3. Once the model is running, simply use Cntr C to quit
 ## 🧭 Overview
 This repository provides a structured template for your team project in the AI Hardware class.  
 Each team will **clone this template** to start their own project repository.
