@@ -37,12 +37,12 @@ In order to use the emotion tracker, once the Jetson has finished logging in and
 
 
 ## References 
-[1]“Jetson Nano,” NVIDIA Developer. Accessed: Dec. 15, 2025. [Online]. Available: https://developer.nvidia.com/embedded/jetson-nano 
-[2]	Boesch, “Explore Computer Vision with NVIDIA Jetson Modules,” viso.ai. Accessed: Dec. 15, 2025. [Online]. Available: https://viso.ai/edge-ai/nvidia-jetson/ 
-[3]	“OpenCV,” OpenCV. Accessed: Dec. 15, 2025. [Online]. Available: https://opencv.org/ 
-[4]	Google, “TensorFlow,” TensorFlow. Accessed: Dec. 15, 2025. [Online]. Available: https://www.tensorflow.org/ 
-[5]	M. Sambare, “FER-2013,” Kaggle. Accessed: Dec. 15, 2025. [Online]. Available: https://www.kaggle.com/datasets/msambare/fer2013 
-[6]	“NVIDIA JetPack Software Stack,” NVIDIA Developer. Accessed: Dec. 15, 2025. [Online]. Available: https://developer.nvidia.com/embedded/jetpack 
+[1] “Jetson Nano,” NVIDIA Developer. Accessed: Dec. 15, 2025. [Online]. Available: https://developer.nvidia.com/embedded/jetson-nano 
+[2] Boesch, “Explore Computer Vision with NVIDIA Jetson Modules,” viso.ai. Accessed: Dec. 15, 2025. [Online]. Available: https://viso.ai/edge-ai/nvidia-jetson/ 
+[3] “OpenCV,” OpenCV. Accessed: Dec. 15, 2025. [Online]. Available: https://opencv.org/ 
+[4] Google, “TensorFlow,” TensorFlow. Accessed: Dec. 15, 2025. [Online]. Available: https://www.tensorflow.org/ 
+[5] M. Sambare, “FER-2013,” Kaggle. Accessed: Dec. 15, 2025. [Online]. Available: https://www.kaggle.com/datasets/msambare/fer2013 
+[6] “NVIDIA JetPack Software Stack,” NVIDIA Developer. Accessed: Dec. 15, 2025. [Online]. Available: https://developer.nvidia.com/embedded/jetpack 
 
 
 ## 🧭 Overview
