@@ -2,8 +2,8 @@
 # AI Hardware Project : Emotion Detector
 ECE 4332 / ECE 6332 — AI Hardware  
 Fall 2025
-Team : Compute Collective 
-Members: Sansshita Baskaran, Garrett Delaney, Evan Sage
+- Team : Compute Collective 
+- Members: Sansshita Baskaran, Garrett Delaney, Evan Sage
 
 ## Project Overview:
 Emotion recognition is an increasingly important area in computer vision and human-computer interaction (HCI), with applications ranging from mental health monitoring to driver alertness systems and in customer service. Many existing emotion recognition systems rely on cloud-based computation, where video data is streamed to remote servers for processing. While this is effective, this approach could also introduce issues such as high latency and bandwidth usage, privacy concerns, and reduced reliability in environments with unstable or unavailable internet connectivity. This project, Emotion Detector, allows us to investigate whether real-time facial emotion recognition can be performed entirely on an edge device. By running the full computation locally, the system aims to improve privacy, reduce latency, and enable deployment in real-world settings without cloud dependence. This project focuses on building and evaluating an on-device emotion recognition system using the NVIDIA Jetson platform.
